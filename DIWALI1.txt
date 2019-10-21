@@ -1,0 +1,13 @@
+AIM : Design automatic led Diwali lights (consisting of 6 led’s) such that it only works during night and can generate two patterns which can be toggled with switch. a. Pattern 1 – led blinks with a freq. of 500 msec. b. Pattern 2 – led blinks with a freq. of 1 sec.
+
+
+Concept Used: When the LDR sensor senses Darkness the Lighting starts according to the coded program which can be controlled using the slide switch.
+
+Observation:  It does not work.
+
+Precaution: 1. The positvie and negative terminal of the LED should be connected properly to the Arduino.
+	    2. The input for LDR sensor should be connected to A0.
+
+Lerning Outcomes : 1. The use of slide switch.
+	           2. The use of LDR sensor.
+		   3. To keep practising Tinker Cad.
